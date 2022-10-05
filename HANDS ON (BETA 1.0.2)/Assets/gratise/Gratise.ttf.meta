@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c31e31fc56b364f40a9f4da22813fdaf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gratise
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02cc763336a9520469344eda6593aa81, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  categoryName: 'EMERGENCY '
+  questions:
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5650017c0d8362c4fabbbf74440df2f1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - HEARTATTACK
+    - ALLERGIC
+    - ASL
+    - HELLO
+    correctAns: ALLERGIC
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 339e5acadd6fcd54a837ea68a37e1c45, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - EMOTIONAL
+    - SCARED
+    - GASPING
+    - BREATHING
+    correctAns: BREATHING
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d391c5b8bfa7c854cbf5ff8e8f5d7635, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - DIZZY
+    - VERTIGO
+    - VOMIT
+    - TIRED
+    correctAns: DIZZY
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: da99cd95b98812c4491fc5ad2c3f346e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - SIGN ASL
+    - HELP
+    - SAD
+    - ANGRY
+    correctAns: HELP
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1fb549dd7a8f16442b73b2b3d4c9ffc3, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - NAME
+    - FEVER
+    - AFRAID
+    - INTERPRETER
+    correctAns: INTERPRETER
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 248d195f53e81bc40a7f055a82263809, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - DIZZY
+    - HATE
+    - AFRAID
+    - NAME
+    correctAns: NAME
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 7485d1d43168c7347b712b7a67823ee9, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - DISTRESS
+    - PAIN
+    - TIRED
+    - INTERPRETER
+    correctAns: PAIN
+  - questionInfo: WHAT IS THIS EMERGENCY SIGN?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2d7943e44dbe5e0499943c163869af59, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - VOMIT
+    - PAIN
+    - ALLERGIES
+    - BREATHING
+    correctAns: VOMIT

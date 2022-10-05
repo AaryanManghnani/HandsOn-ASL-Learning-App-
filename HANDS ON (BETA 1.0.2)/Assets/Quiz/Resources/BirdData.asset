@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: BirdData
+  m_EditorClassIdentifier: 
+  categoryName: EMOTIONS
+  questions:
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d6b2509dd8e4e554cbd64e6d774d431f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - HAPPY
+    - CRAZY
+    - CRY
+    - SILLY
+    correctAns: CRY
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 43c8dc61b018214418dce1d1acda18e7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - FINE
+    - NOT OK
+    - OK
+    - SAD
+    correctAns: FINE
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ebfb83425d6ca9842bc7de7d99ff63b9, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - SLEEPY
+    - ANGRY
+    - HAPPY
+    - HUNGRY
+    correctAns: HAPPY
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: cf03a02f5d98b5640810e8c08d9d5ce7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ECSTATIC
+    - THINKING
+    - CONFUSED
+    - MAD
+    correctAns: MAD
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1ebc16debe55f7447b1ee1f3f9f4e8c5, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - SAD
+    - JOYFUL
+    - SCARED
+    - BENOVOLENT
+    correctAns: SCARED
+  - questionInfo: WHAT IS THIS EMOTION?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 31e18304961842242a4d961a83f503a7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - NOT SLEEPY
+    - HUNGRY
+    - AFRAID
+    - TIRED
+    correctAns: TIRED

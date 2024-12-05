@@ -1,5 +1,5 @@
 # HandsOn-ASL-Learning-App
-A simple ASL Learning App which uses 3D-models to teach in a fun way and has a few games which help you test your skills after you're done learning.
+A simple ASL Learning App which uses 3D-models to teach in a fun way and has a few games which help you test your skills after you're done learning. This has been accomplished in a way to make it accessible and innovative.
 
 <img src="https://github.com/user-attachments/assets/3bc9f762-b1a1-401f-9bbc-95aa3bfb16cf" width="350" height="600">
 <img src="https://github.com/user-attachments/assets/77b1c7d8-a9e9-4043-8c08-e7c22a808c0f" width="350" height="600">
